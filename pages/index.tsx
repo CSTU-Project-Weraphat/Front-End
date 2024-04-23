@@ -38,7 +38,7 @@ export default function Index() {
             <div className=" w-full min-h-screen bg-[#EFF1FE]">
                 <section id="homepage" className="relative">
                     <img
-                        src="https://cdn.discordapp.com/attachments/1153632685407871066/1164514618698371182/Dometu-transformed.png?ex=65437dc0&is=653108c0&hm=b607c9fe9bc1b12da67605c675dde9f8ff6fe42bc6fc1cfb0d92c13615d90a91&"
+                        src="https://cdn.discordapp.com/attachments/1153632685407871066/1164514618698371182/Dometu-transformed.png?ex=6628e2c0&is=66279140&hm=9fa1528e363e8b841e1d445aee0b37f7f761bccba463dba4b07d0098acda57b0&"
                         width={600}
                         height={600}
                         className="object-cover brightness-50 w-full min-h-screen lg:min-h-0"
